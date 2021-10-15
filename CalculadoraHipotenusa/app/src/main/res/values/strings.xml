@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraHipotenusa</string>
+    <string name="resultado">RESULTADO:</string>
+    <string name="cateto_a">CATETO A:</string>
+    <string name="catetob">CATETO B:</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="calcular">Calcular</string>
+</resources>
